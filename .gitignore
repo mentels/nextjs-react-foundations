@@ -1,0 +1,64 @@
+# Node.js
+node_modules/
+
+# Build files
+build/
+dist/
+
+# Dependency directories
+/.pnp/
+.pnp.js
+
+# Testing
+/coverage/
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Next.js
+/.next/
+/out/
+
+# Compiled output
+/out/
+
+# Next.js Image Optimization
+/next.config.js
+
+# Yarn
+.yarn/*
+!.yarn/cache/
+!.yarn/plugins/
+!.yarn/releases/
+!.yarn/versions/
+
+# npm
+.npm
+.npmrc
+
+# ESLint
+/.eslintcache
+/.eslintignore
+
+# Prettier
+/.prettierignore
+/.prettierrc
+
+# Editor directories and files
+.DS_Store
+.editorconfig
+.eslintignore
+.eslintrc
+.prettierignore
+.prettierrc

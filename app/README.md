@@ -1,0 +1,1 @@
+Based on https://nextjs.org/learn/react-foundations
